@@ -75,6 +75,7 @@ Wrapper Component that works as _parent class_ of _class_ __FormComponent__ and 
 ### Methods ###
 #### Constructor() ####
 Calls _super()_ to initiate __This__ context. It also initialized _state_ __dataSource__ which is an array of _JSON Object_. __dataSource__ stores _row object_ passed from _child class_ __FormComponent__.
+
 Property  | Parameters | Parameter Type
 ------------- | ------------- | --------
 Method  | - | -
